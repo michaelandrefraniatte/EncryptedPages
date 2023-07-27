@@ -1,0 +1,11 @@
+Old :
+- SQL table shape in my book miceditionblogrecycling.
+- MySQL Connector install required for MySQL.data reference to delete and add.
+- Port 3306 in TCP to allow in modem firewall and Windows firewall for the program.
+
+New :
+- Combine EO.WebBrowser by EO, pdf-generator, encryptedsitetest and textcryptor, with secureconnection
+- PDF can be embed as base64 source data like for image
+- HTML format also but not fast as a PDF, need to rewrite the book, but more beautyful
+
+ 
