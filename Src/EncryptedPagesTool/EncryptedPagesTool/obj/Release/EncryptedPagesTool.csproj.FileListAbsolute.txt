@@ -22,3 +22,14 @@ C:\Users\micha\Documents\GitHub\EncryptedPages\Src\EncryptedPagesTool\EncryptedP
 C:\Users\micha\Documents\GitHub\EncryptedPages\Src\EncryptedPagesTool\EncryptedPagesTool\obj\Release\EncryptedPagesTool.csproj.CopyComplete
 C:\Users\micha\Documents\GitHub\EncryptedPages\Src\EncryptedPagesTool\EncryptedPagesTool\obj\Release\EncryptedPagesTool.exe
 C:\Users\micha\Documents\GitHub\EncryptedPages\Src\EncryptedPagesTool\EncryptedPagesTool\obj\Release\EncryptedPagesTool.pdb
+C:\Users\micha\Documents\github\EncryptedPagesOfficial\Src\EncryptedPagesTool\EncryptedPagesTool\bin\Release\EncryptedPagesTool.exe.config
+C:\Users\micha\Documents\github\EncryptedPagesOfficial\Src\EncryptedPagesTool\EncryptedPagesTool\bin\Release\EncryptedPagesTool.exe
+C:\Users\micha\Documents\github\EncryptedPagesOfficial\Src\EncryptedPagesTool\EncryptedPagesTool\bin\Release\EncryptedPagesTool.pdb
+C:\Users\micha\Documents\github\EncryptedPagesOfficial\Src\EncryptedPagesTool\EncryptedPagesTool\obj\Release\EncryptedPagesTool.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\EncryptedPagesOfficial\Src\EncryptedPagesTool\EncryptedPagesTool\obj\Release\EncryptedPagesTool.Form1.resources
+C:\Users\micha\Documents\github\EncryptedPagesOfficial\Src\EncryptedPagesTool\EncryptedPagesTool\obj\Release\EncryptedPagesTool.Properties.Resources.resources
+C:\Users\micha\Documents\github\EncryptedPagesOfficial\Src\EncryptedPagesTool\EncryptedPagesTool\obj\Release\EncryptedPagesTool.csproj.GenerateResource.cache
+C:\Users\micha\Documents\github\EncryptedPagesOfficial\Src\EncryptedPagesTool\EncryptedPagesTool\obj\Release\EncryptedPagesTool.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\EncryptedPagesOfficial\Src\EncryptedPagesTool\EncryptedPagesTool\obj\Release\EncryptedPagesTool.csproj.CopyComplete
+C:\Users\micha\Documents\github\EncryptedPagesOfficial\Src\EncryptedPagesTool\EncryptedPagesTool\obj\Release\EncryptedPagesTool.exe
+C:\Users\micha\Documents\github\EncryptedPagesOfficial\Src\EncryptedPagesTool\EncryptedPagesTool\obj\Release\EncryptedPagesTool.pdb

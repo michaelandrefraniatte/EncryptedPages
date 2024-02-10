@@ -1,31 +1,12 @@
-C:\Users\Mic\Documents\Visual Studio 2012\Projects\WiimoteByMic - C#\EBookViewver\EBookViewver\bin\Debug\EBookViewver.exe.config
-C:\Users\Mic\Documents\Visual Studio 2012\Projects\WiimoteByMic - C#\EBookViewver\EBookViewver\obj\Debug\EBookViewver.csprojResolveAssemblyReference.cache
-C:\Users\Mic\Documents\Visual Studio 2012\Projects\WiimoteByMic - C#\EBookViewver\EBookViewver\obj\Debug\EBookViewver.Form1.resources
-C:\Users\Mic\Documents\Visual Studio 2012\Projects\WiimoteByMic - C#\EBookViewver\EBookViewver\obj\Debug\EBookViewver.Properties.Resources.resources
-C:\Users\Mic\Documents\Visual Studio 2012\Projects\WiimoteByMic - C#\EBookViewver\EBookViewver\obj\Debug\EBookViewver.csproj.GenerateResource.Cache
-C:\Users\Mic\Documents\Visual Studio 2012\Projects\WiimoteByMic - C#\EBookViewver\EBookViewver\bin\Debug\EBookViewver.exe
-C:\Users\Mic\Documents\Visual Studio 2012\Projects\WiimoteByMic - C#\EBookViewver\EBookViewver\bin\Debug\EBookViewver.pdb
-C:\Users\Mic\Documents\Visual Studio 2012\Projects\WiimoteByMic - C#\EBookViewver\EBookViewver\obj\Debug\EBookViewver.exe
-C:\Users\Mic\Documents\Visual Studio 2012\Projects\WiimoteByMic - C#\EBookViewver\EBookViewver\obj\Debug\EBookViewver.pdb
-C:\Users\Mic\Documents\Visual Studio 2012\Projects\EBookViewver\EBookViewver\bin\Debug\EBookViewver.exe.config
-C:\Users\Mic\Documents\Visual Studio 2012\Projects\EBookViewver\EBookViewver\obj\Debug\EBookViewver.exe
-C:\Users\Mic\Documents\Visual Studio 2012\Projects\EBookViewver\EBookViewver\obj\Debug\EBookViewver.pdb
-C:\Users\Mic\Documents\Visual Studio 2012\Projects\EBookViewver\EBookViewver\bin\Debug\EBookViewver.exe
-C:\Users\Mic\Documents\Visual Studio 2012\Projects\EBookViewver\EBookViewver\bin\Debug\EBookViewver.pdb
-C:\Users\Mic\Documents\Visual Studio 2012\Projects\EBookViewver\EBookViewver\obj\Debug\EBookViewver.csprojResolveAssemblyReference.cache
-C:\Users\Mic\Documents\Visual Studio 2012\Projects\EBookViewver\EBookViewver\obj\Debug\EBookViewver.Form1.resources
-C:\Users\Mic\Documents\Visual Studio 2012\Projects\EBookViewver\EBookViewver\obj\Debug\EBookViewver.Properties.Resources.resources
-C:\Users\Mic\Documents\Visual Studio 2012\Projects\EBookViewver\EBookViewver\obj\Debug\EBookViewver.csproj.GenerateResource.Cache
-C:\Users\mic\Documents\GitHub\EBookViewver\EBookViewver\EBookViewver\bin\Debug\EBookViewver.exe.config
-C:\Users\mic\Documents\GitHub\EBookViewver\EBookViewver\EBookViewver\bin\Debug\EBookViewver.exe
-C:\Users\mic\Documents\GitHub\EBookViewver\EBookViewver\EBookViewver\bin\Debug\EBookViewver.pdb
-C:\Users\mic\Documents\GitHub\EBookViewver\EBookViewver\EBookViewver\bin\Debug\MySql.Data.dll
-C:\Users\mic\Documents\GitHub\EBookViewver\EBookViewver\EBookViewver\bin\Debug\MySql.Data.xml
-C:\Users\mic\Documents\GitHub\EBookViewver\EBookViewver\EBookViewver\obj\Debug\EBookViewver.csprojAssemblyReference.cache
-C:\Users\mic\Documents\GitHub\EBookViewver\EBookViewver\EBookViewver\obj\Debug\EBookViewver.Form1.resources
-C:\Users\mic\Documents\GitHub\EBookViewver\EBookViewver\EBookViewver\obj\Debug\EBookViewver.Properties.Resources.resources
-C:\Users\mic\Documents\GitHub\EBookViewver\EBookViewver\EBookViewver\obj\Debug\EBookViewver.csproj.GenerateResource.cache
-C:\Users\mic\Documents\GitHub\EBookViewver\EBookViewver\EBookViewver\obj\Debug\EBookViewver.csproj.CoreCompileInputs.cache
-C:\Users\mic\Documents\GitHub\EBookViewver\EBookViewver\EBookViewver\obj\Debug\EBookViewver.csproj.CopyComplete
-C:\Users\mic\Documents\GitHub\EBookViewver\EBookViewver\EBookViewver\obj\Debug\EBookViewver.exe
-C:\Users\mic\Documents\GitHub\EBookViewver\EBookViewver\EBookViewver\obj\Debug\EBookViewver.pdb
+C:\Users\micha\Documents\github\EncryptedPagesOfficial\Src\EBookViewver\EBookViewver\bin\Debug\EBookViewver.exe.config
+C:\Users\micha\Documents\github\EncryptedPagesOfficial\Src\EBookViewver\EBookViewver\bin\Debug\EBookViewver.exe
+C:\Users\micha\Documents\github\EncryptedPagesOfficial\Src\EBookViewver\EBookViewver\bin\Debug\EBookViewver.pdb
+C:\Users\micha\Documents\github\EncryptedPagesOfficial\Src\EBookViewver\EBookViewver\bin\Debug\MySql.Data.xml
+C:\Users\micha\Documents\github\EncryptedPagesOfficial\Src\EBookViewver\EBookViewver\obj\Debug\EBookViewver.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\EncryptedPagesOfficial\Src\EBookViewver\EBookViewver\obj\Debug\EBookViewver.Form1.resources
+C:\Users\micha\Documents\github\EncryptedPagesOfficial\Src\EBookViewver\EBookViewver\obj\Debug\EBookViewver.Properties.Resources.resources
+C:\Users\micha\Documents\github\EncryptedPagesOfficial\Src\EBookViewver\EBookViewver\obj\Debug\EBookViewver.csproj.GenerateResource.cache
+C:\Users\micha\Documents\github\EncryptedPagesOfficial\Src\EBookViewver\EBookViewver\obj\Debug\EBookViewver.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\EncryptedPagesOfficial\Src\EBookViewver\EBookViewver\obj\Debug\EBookViewver.csproj.CopyComplete
+C:\Users\micha\Documents\github\EncryptedPagesOfficial\Src\EBookViewver\EBookViewver\obj\Debug\EBookViewver.exe
+C:\Users\micha\Documents\github\EncryptedPagesOfficial\Src\EBookViewver\EBookViewver\obj\Debug\EBookViewver.pdb
